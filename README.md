@@ -1,2 +1,2 @@
 # HTML-CSS
-This is simple project made with only CSS and HTML
+This is my responsive web app project made with only CSS and HTML
